@@ -22,7 +22,7 @@ Complete reference for every function, element, and option in the ZidX library (
 
 ```lua
 local UILibrary = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/musicmaker-web/ZidX/refs/heads/main/ZidX-O.lua"
+    "https://raw.githubusercontent.com/musicmaker-web/ZidX/refs/heads/main/ZidX.lua"
 ))()
 ```
 
